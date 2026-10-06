@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-docker-optimized",
+  "version": "1.0.0",
+  "description": "Optimized Dockerized Node.js application",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
